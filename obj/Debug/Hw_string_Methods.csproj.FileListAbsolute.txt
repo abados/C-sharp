@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\C#\Hw_string_Methods\bin\Debug\Hw_string_Methods.exe.config
+C:\Users\User\source\repos\C#\Hw_string_Methods\bin\Debug\Hw_string_Methods.exe
+C:\Users\User\source\repos\C#\Hw_string_Methods\bin\Debug\Hw_string_Methods.pdb
+C:\Users\User\source\repos\C#\Hw_string_Methods\obj\Debug\Hw_string_Methods.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#\Hw_string_Methods\obj\Debug\Hw_string_Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\C#\Hw_string_Methods\obj\Debug\Hw_string_Methods.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#\Hw_string_Methods\obj\Debug\Hw_string_Methods.exe
+C:\Users\User\source\repos\C#\Hw_string_Methods\obj\Debug\Hw_string_Methods.pdb
